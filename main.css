@@ -375,6 +375,14 @@ body {
   margin-left: .75rem;
   }
 
+  .row {
+
+    --bs-gutter-x: 15.0rem;;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+  }
+
 
 
 
